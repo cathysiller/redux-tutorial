@@ -1,3 +1,5 @@
+All original code from https://github.com/bradtraversy/redux_crash_course, followed course on YouTube https://www.youtube.com/watch?v=93p3LxR9xfM
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
